@@ -9,9 +9,9 @@ Visualização: Gráficos e visualizações para representar as tendências de h
 Relatórios: Geração de relatórios detalhados com as principais conclusões da análise.
 
 # Tecnologias Utilizadas
-Python: Linguagem principal utilizada para coleta, análise e visualização dos dados.
-Pandas: Biblioteca utilizada para manipulação e análise de dados.
-Matplotlib/Seaborn: Bibliotecas utilizadas para criação de gráficos e visualizações.
+Python: Linguagem principal utilizada para coleta, análise e visualização dos dados. /n
+Pandas: Biblioteca utilizada para manipulação e análise de dados. /n
+Matplotlib/Seaborn: Bibliotecas utilizadas para criação de gráficos e visualizações.\n
 Jupyter Notebook: Ambiente utilizado para desenvolvimento e apresentação do código.
 
 # Como Utilizar
